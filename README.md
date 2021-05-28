@@ -3,6 +3,8 @@ PHP tic tac toe game
 Open and inport files to a Replit or other PHP cli;
 **Important** Running outside of a cli will result in an ** INFINITE ERROR LOOP**
 
+**EXAMPLE OF Object Oriented Programming in PHP**
+
 Build a tic-tac-toe game on the command line where two human players can play against each other and the board is displayed in between turns.
 
 Think about how you would set up the different elements within the game… What should be a class? Instance variable? Method? A few minutes of thought can save you from wasting an hour of coding.
